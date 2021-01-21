@@ -10,6 +10,11 @@ and set it equal to your first name.
 Then, set another key of lastName 
 and set it equal to your last name
 */
+var me = {
+  "firstName": "lastName",
+  "firstName": Jamar,
+  "lastName": Gaines
+};
 
 
 
@@ -30,3 +35,12 @@ species that are set to the name of your pet and
 its species. (if you don't have a pet, you can just 
 make one up)
 */
+
+var hobbies = ["gaming", "basketball", "sleeping"]
+me.myHobbies = hobbies;
+console.log(me);
+me.pet = pet {
+  "name": "species",
+  "lola": "shitzu",
+  "duece": "pitbull"
+}
